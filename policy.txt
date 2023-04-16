@@ -1,0 +1,43 @@
+Privacy Policy & Terms
+======================
+
+Non-personal identification information
+---------------------------------------
+
+We may collect non-personal identification information about Users whenever they interact with the App, This may include: the type of device, the operating system, and other similar information.
+
+How we use collected information
+--------------------------------
+
+Photoguessr collects and uses Users personal information for the following purposes:
+
+1. To personalize user experience: to understand how our Users as a group use the App.
+2. To improve our App.
+3. To improve customer service.
+
+How we protect your information
+-------------------------------
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our App.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+Sharing your personal information
+---------------------------------
+
+We do not sell, trade, or rent Users personal identification information to others.
+
+Compliance with childrens online privacy protection act
+--------------------------------------------------------
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our App from those we actually know are under 13, and no part of our app is structured to attract anyone under 13.
+
+Changes to this privacy policy
+------------------------------
+
+Photoguessr has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page.
+
+Contacting us
+-------------
+
+Questions about this policy can be sent to sergheevdev@icloud.com
+This document was last updated on 17 April 2023
