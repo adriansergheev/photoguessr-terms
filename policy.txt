@@ -18,15 +18,19 @@ Photoguessr collects and uses Users personal information for the following purpo
 How we protect your information
 -------------------------------
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our App.
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information, and data stored on our App. Sensitive and private data exchange between the Site and its Users happens over an SSL secured communication channel and is encrypted and protected with digital signatures.
+
+Third Party Service
+-------------------
+
+We use a third party service called "Pastvu" to provide some of the images on our App. Pastvu is licensed under GNU Affero General Public License (AGPL) v3 or later.
 
 Sharing your personal information
 ---------------------------------
 
 We do not sell, trade, or rent Users personal identification information to others.
 
-Compliance with childrens online privacy protection act
+Compliance with children's online privacy protection act
 --------------------------------------------------------
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our App from those we actually know are under 13, and no part of our app is structured to attract anyone under 13.
@@ -40,4 +44,4 @@ Contacting us
 -------------
 
 Questions about this policy can be sent to sergheevdev@icloud.com
-This document was last updated on 17 April 2023
+This document was last updated on 10 May 2023.
